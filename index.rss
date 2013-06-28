@@ -2,7 +2,7 @@
 <title>Marco Nenciarini's Git Achievements</title>
 <description></description>
 <link></link>
-<item><title>Master Product Manager (Level 10)</title><description>Stash the changes in a dirty working directory away with git stash.</description></item>
+<item><title>Chimney Sweeper (Level 6)</title><description>Used git gc to run a number of housekeeping tasks on the current repository.</description></item>
 <item><title>Master Miller (Level 8)</title><description>Add only part of a file to the stage 1528 times with git add -p.</description></item>
 <item><title>Master Goldsmith (Level 8)</title><description>Reviewed patches before committing with git diff --cached.</description></item>
 <item><title>Master Seamstress (Level 9)</title><description>amended a commit with git commit --amend.</description></item>
