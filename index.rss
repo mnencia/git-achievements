@@ -2,6 +2,7 @@
 <title>Marco Nenciarini's Git Achievements</title>
 <description></description>
 <link></link>
+<item><title>Master Miller (Level 9)</title><description>Add only part of a file to the stage 2048 times with git add -p.</description></item>
 <item><title>Master Stone Mason (Level 11)</title><description>Added files to the index area for inclusion in the next commit with git add</description></item>
 <item><title>Master Author (Level 11)</title><description>Made 2^Level commits using git commit.</description></item>
 <item><title>Apprentice Cathedral Architect (Level 3)</title><description>Added a submodule to a repository.</description></item>
@@ -21,5 +22,4 @@
 <item><title>Merchant (Level 5)</title><description>Added an external repository with git remote add.</description></item>
 <item><title>Architect (Level 6)</title><description>Created a new repository with git init.</description></item>
 <item><title>Master Cleaning lady (Level 7)</title><description>Remove untracked files from the working tree with git clean</description></item>
-<item><title>Master Fisherman (Level 8)</title><description>Look for specified patterns in the current repository with git grep.</description></item>
 </channel></rss>
